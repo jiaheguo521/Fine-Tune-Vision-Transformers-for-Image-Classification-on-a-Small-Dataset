@@ -85,4 +85,4 @@ The main scripts (e.g., `train.py`, `evaluate.py`) can be run from the command l
 
 For a detailed analysis, methodology, and full results, please see the accompanying research paper for this project.
 
-[**Fine-Tune Vision Transformers for Image Classification on a Small Dataset.pdf**](https://www.google.com/search?q=https(://github.com/jiaheguo521/Fine-Tune-Vision-Transformers-for-Image-Classification-on-a-Small-Dataset/blob/main/Fine_Tune_Vision_Transformers_for_Image_Classification_on_a_Small_Dataset.pdf))*(Note: You will need to upload the PDF to your repository for this link to work.)*
+[**Fine-Tune Vision Transformers for Image Classification on a Small Dataset.pdf**]
